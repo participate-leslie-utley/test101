@@ -1,4 +1,4 @@
-joomla_test
+test101
 ===========
 
 my own test location
